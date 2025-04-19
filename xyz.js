@@ -1,0 +1,1 @@
+console.log('this xyz is executed'); //with require this will be executed first
